@@ -1,6 +1,8 @@
 import React from 'react'
+import { graphql } from "gatsby";
 import PropTypes from 'prop-types'
 import Helmet from 'react-helmet'
+
 
 import Header from '../components/header'
 import './index.css'
@@ -31,7 +33,7 @@ Layout.propTypes = {
 export default Layout
 
 export const query = graphql`
-  query SiteTitleQuery {
+  query MailchimpExampleSiteTitle {
     site {
       siteMetadata {
         title
