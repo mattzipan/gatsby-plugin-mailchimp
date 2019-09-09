@@ -1,3 +1,7 @@
+## Edit: 09/09/2019
+This fork solved errors in the Gatsby2 build process that are occuring with the officlial repo.
+Below additional info on the repo.
+
 ## Subscribe emails to your Mailchimp list
 
 This Gatsby plugin helps you subscribe new email addresses to a Mailchimp email list. Mailchimp does
