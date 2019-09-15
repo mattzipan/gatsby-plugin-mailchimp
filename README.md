@@ -1,5 +1,5 @@
 ## Edit: 09/09/2019
-This fork solved errors in the Gatsby2 build process that are occuring with the officlial repo.
+This fork solves errors in the Gatsby2 build process that are occuring with the officlial repo.
 Below additional info on the repo.
 
 ## Subscribe emails to your Mailchimp list
